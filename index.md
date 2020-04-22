@@ -1,5 +1,3 @@
-# Welcome to my blog
+# Jemput baca
 
-I'm glad you are here. I plan to talk about coding. 
-
-I love coding very much.
+baca jangan tak baca
